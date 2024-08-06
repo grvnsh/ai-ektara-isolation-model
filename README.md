@@ -7,14 +7,14 @@ This Python script implements an artificial neural network model for detecting t
 
 # Key Features:
 
-Audio loading and preprocessing using Librosa
-Spectrogram generation for feature extraction
-CNN-based ektara detection model
-Model training and evaluation metrics
-Potential for ektara isolation (not implemented)
+* Audio loading and preprocessing using Librosa
+* Spectrogram generation for feature extraction
+* CNN-based ektara detection model
+* Model training and evaluation metrics
+* Potential for ektara isolation (not implemented)
 
 # Further Development
 
-Data Augmentation
-Hyperparameter Tuning
-Advanced Model Architectures to Optimize Performance
+* Data Augmentation
+* Hyperparameter Tuning
+* Advanced Model Architectures to Optimize Performance
